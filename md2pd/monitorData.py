@@ -3,6 +3,10 @@ import numpy as np
 from cl2pd import importData
 from cl2pd import variablesDF
 
+cals = importData.cals
+
+
+
 def initializeDF(variables, LastMinutesToConsider = 2., startTime = pd.Timestamp.now(tz='CET')):
     '''
     Initialize a DF, downloading the data from CALS for a given amount of time. 
