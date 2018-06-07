@@ -1,5 +1,6 @@
 # MDOnlineAnalysis
-This package provides several tools for online MD analysis, in terms of data monitoring and post processing
+This package provides several tools for online MD analysis, in terms of data monitoring and post processing.
+
 Big acknoledgment to G. Sterbini for his input. 
 
 This package assumes that you are using also the cl2pd package, available here: 
