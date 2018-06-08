@@ -9,6 +9,6 @@ cl2pd = monitorData.cl2pd
 cals=cl2pd.importData.cals
 variablesDF = cl2pd.variablesDF
 pd = monitorData.pd
-np = monitorData.pd
+np = monitorData.np
 
 '''
